@@ -1,0 +1,45 @@
+.content{
+   text-align: center;  
+   font-size: larger
+}
+div h2{
+    margin-right:80px;
+    font-size: 40px;
+    top: 50%;
+    margin-top: 15%;
+}
+input{
+  width:20%;
+  border: 1px solid black;
+}
+label{
+    text-align:left;
+}
+button{
+    width:10%;
+    heght: 10px;
+    font-size:14px;
+    margin-top:15px;
+}
+body{
+    border:none;
+}
+.value{
+   margin-right:150px;
+}
+.sum{
+ margin-right: 110px;   
+}
+.button{
+    margin-top: 35px;
+    margin-right: 140px;
+    font-weight: bold;
+}
+.sum input{
+    
+    color:black;
+}
+.btn , .bt{
+    background-color: black;
+    color:azure;
+}
